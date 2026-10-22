@@ -1,4 +1,4 @@
-"""Run both beginner project experiments from the command line."""
+"""Run both project experiments from the command line."""
 
 from pathlib import Path
 

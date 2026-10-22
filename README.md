@@ -1,6 +1,6 @@
 # Predictive Modelling & Classification with XGBoost
 
-A beginner-friendly, end-to-end machine-learning project. It trains and evaluates
+A hands-on, end-to-end machine-learning project. It trains and evaluates
 one **classification** model and one **regression** model, compares both with
 simple baselines, and reports metrics using data the models did not train on.
 
